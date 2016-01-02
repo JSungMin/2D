@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 8463c3dc11d721c498ab199c51218aec
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bug 01
+    21300002: Bug 02
+    21300004: Bug 03
+    21300006: Bug 04
+    21300008: Bug 05
+    21300010: Bug 06
+    21300012: Bug 07
+    21300014: Bug 08
+    21300016: Bug 016
+    21300018: Bug 015
+    21300020: Bug 014
+    21300022: Bug 13
+    21300024: Bug 12
+    21300026: Bug 11
+    21300028: Bug 010
+    21300030: Bug 09
+    21300032: Plank 01
+    21300034: Plank 02
+    21300036: Plank 03
+    21300038: Plank 04
+    21300040: Sign Blank
+    21300042: Sign Arrow
+    21300044: Post 01
+    21300046: Post02
+    21300048: Arrow Wooden
+    21300050: Cactus01
+    21300052: Cactus02
+    21300054: Cactus03
+    21300056: Cactus04
+    21300058: Cactus05
+    21300060: Cactus06
+    21300062: Cactus07
+    21300064: Cactus08
+    21300066: Cactus09
+    21300068: Cactus010
+    21300070: Screw01
+    21300072: Screw02
+    21300074: Cactus Flower
+    21300076: Cactus crazy
+    21300078: cactus crazytop
+    21300080: End
+    21300082: question mark
+    21300084: '!'
+    21300086: Skull
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bug 01
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1818
+        width: 177
+        height: 223
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bug 02
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1818
+        width: 179
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bug 03
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1819
+        width: 179
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bug 04
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1814
+        width: 176
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bug 05
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1835
+        width: 177
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bug 06
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1796
+        width: 178
+        height: 203
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bug 07
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1789
+        width: 181
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bug 08
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1761
+        width: 176
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bug 016
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1514
+        width: 178
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bug 015
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1572
+        width: 177
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bug 014
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1548
+        width: 179
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bug 13
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1570
+        width: 177
+        height: 217
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bug 12
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1492
+        width: 179
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bug 11
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1600
+        width: 177
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bug 010
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1543
+        width: 181
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bug 09
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1552
+        width: 176
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plank 01
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1342
+        width: 474
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plank 02
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 478
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plank 03
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 964
+        width: 478
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plank 04
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 790
+        width: 478
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign Blank
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1148
+        width: 486
+        height: 303
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign Arrow
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 794
+        width: 486
+        height: 303
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Post 01
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 804
+        width: 80
+        height: 661
+      alignment: 9
+      pivot: {x: .606283545, y: .0117805237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Post02
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 797
+        width: 80
+        height: 639
+      alignment: 9
+      pivot: {x: .574037194, y: .0138819162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow Wooden
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1299
+        width: 420
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cactus01
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 902
+        width: 430
+        height: 355
+      alignment: 9
+      pivot: {x: .486608595, y: .0458325893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cactus02
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 386
+        width: 199
+        height: 279
+      alignment: 9
+      pivot: {x: .456409097, y: .100989118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cactus03
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 391
+        width: 189
+        height: 292
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cactus04
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 395
+        width: 187
+        height: 328
+      alignment: 9
+      pivot: {x: .573438048, y: .0100149764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cactus05
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 390
+        width: 164
+        height: 305
+      alignment: 9
+      pivot: {x: .421423942, y: .0242200512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cactus06
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 387
+        width: 175
+        height: 273
+      alignment: 9
+      pivot: {x: .525613129, y: .0320727453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cactus07
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 397
+        width: 150
+        height: 256
+      alignment: 9
+      pivot: {x: .395414233, y: .0185079575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cactus08
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 393
+        width: 171
+        height: 274
+      alignment: 9
+      pivot: {x: .454128683, y: .0256009065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cactus09
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 389
+        width: 197
+        height: 274
+      alignment: 9
+      pivot: {x: .460182756, y: .0153770726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cactus010
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 388
+        width: 184
+        height: 271
+      alignment: 9
+      pivot: {x: .38428995, y: .0244844444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screw01
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 676
+        width: 175
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screw02
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 679
+        width: 181
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cactus Flower
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 486
+        height: 382
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cactus crazy
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 12
+        width: 315
+        height: 337
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cactus crazytop
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3
+        width: 367
+        height: 367
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: End
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 187
+        width: 231
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: question mark
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 108
+        width: 113
+        height: 218
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: '!'
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 110
+        width: 62
+        height: 224
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skull
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 158
+        width: 135
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

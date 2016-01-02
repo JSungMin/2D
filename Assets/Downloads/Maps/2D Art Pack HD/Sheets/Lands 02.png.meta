@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: 2b7bf3924c89066438bb666ee3aa0ec2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lands 02_0
+    21300002: Lands 02_1
+    21300004: Lands 02_2
+    21300006: Lands 02_3
+    21300008: Lands 02_4
+    21300010: Lands 02_5
+    21300012: Lands 02_6
+    21300014: Cut 01
+    21300016: Cut 02
+    21300018: Lands 02_7
+    21300020: Cut 03
+    21300022: Cliff S L
+    21300024: Cliff S R
+    21300026: Cliff M L
+    21300028: Cliff M R
+    21300030: Cliff L L
+    21300032: Cliff L R
+    21300034: Trap land
+    21300036: Trap Land Cut
+    21300038: Cave
+    21300040: eyes 02
+    21300042: eyes 01
+    21300044: Eye Pupil
+    21300046: Spider Body
+    21300048: Spider Eyes
+    21300050: Spider Eyes Angry
+    21300052: Spider legs
+    21300054: Spider eyes closed
+    21300056: Spider Fat
+    21300058: Land For Traps
+    21300060: Trap End L
+    21300062: Trap End R
+    21300064: Trap Top L
+    21300066: Trap Top R
+    21300068: Lands 02_8
+    21300070: Lands 02_9
+    21300072: Lands 02_10
+    21300074: Lands 02_11
+    21300076: Lands 02_12
+    21300078: Lands 02_13
+    21300080: Lands 02_14
+    21300082: Lands 02_15
+    21300084: Lands 02_16
+    21300086: Lands 02_17
+    21300088: Lands 02_18
+    21300090: Lands 02_19
+    21300092: LARGE Curved land Cut
+    21300094: Cut 11
+    21300096: Cut 10
+    21300098: Cliff M L Cut
+    21300100: Cliff M R Cut
+    21300102: spider black bg
+    21300104: CutSmall
+    21300106: Cut Left
+    21300108: Cut Right
+    21300110: Cut End Right
+    21300112: Cut end left
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Lands 02_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1931
+        width: 887
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_1
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1932
+        width: 185
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_2
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1925
+        width: 318
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_3
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1921
+        width: 132
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_4
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1910
+        width: 167
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_5
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1619
+        width: 346
+        height: 272
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_6
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1678
+        width: 675
+        height: 236
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cut 01
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1678
+        width: 472
+        height: 236
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cut 02
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1621
+        width: 203
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1673
+        width: 829
+        height: 227
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cut 03
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1673
+        width: 676
+        height: 227
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cliff S L
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1539
+        width: 132
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cliff S R
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1536
+        width: 132
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cliff M L
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1305
+        width: 160
+        height: 190
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cliff M R
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1308
+        width: 160
+        height: 190
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cliff L L
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 956
+        width: 153
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cliff L R
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 957
+        width: 153
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trap land
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1107
+        width: 507
+        height: 207
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trap Land Cut
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1107
+        width: 369
+        height: 207
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cave
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1334
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyes 02
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1363
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyes 01
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1359
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye Pupil
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1365
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spider Body
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1338
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spider Eyes
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1347
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spider Eyes Angry
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1345
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spider legs
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1324
+        width: 38
+        height: 58
+      alignment: 9
+      pivot: {x: .0412517339, y: .702097952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spider eyes closed
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1350
+        width: 33
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spider Fat
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1198
+        width: 161
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land For Traps
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1399
+        width: 271
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trap End L
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1551
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trap End R
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1551
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trap Top L
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1541
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trap Top R
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1541
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_8
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1395
+        width: 273
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_9
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1493
+        width: 510
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_10
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1474
+        width: 391
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_11
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1156
+        width: 734
+        height: 303
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_12
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 929
+        width: 368
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_13
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 945
+        width: 451
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_14
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 965
+        width: 186
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 682
+        width: 1996
+        height: 224
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 315
+        width: 1985
+        height: 359
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_17
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 12
+        width: 625
+        height: 297
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_18
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 12
+        width: 625
+        height: 296
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands 02_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 62
+        width: 672
+        height: 212
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LARGE Curved land Cut
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 315
+        width: 1808
+        height: 358
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cut 11
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 16
+        width: 330
+        height: 293
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cut 10
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 15
+        width: 355
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cliff M L Cut
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1305
+        width: 76
+        height: 190
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cliff M R Cut
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1308
+        width: 74
+        height: 190
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider black bg
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1303
+        width: 45
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CutSmall
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1932
+        width: 138
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cut Left
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1933
+        width: 262
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cut Right
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1933
+        width: 177
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cut End Right
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1933
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cut end left
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1933
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

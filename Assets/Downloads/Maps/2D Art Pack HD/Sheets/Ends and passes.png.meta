@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 1602de75a54b83949ac8166bffd306d1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shroom Pass
+    21300002: Shroom End
+    21300004: Shroom End mask
+    21300006: Shroom Pass mask
+    21300008: Tower End
+    21300010: Tower Pole
+    21300012: Tower Flag
+    21300014: Tower Mask
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Shroom Pass
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1313
+        width: 776
+        height: 720
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom End
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 541
+        width: 729
+        height: 690
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom End mask
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 968
+        width: 526
+        height: 486
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Pass mask
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1500
+        width: 405
+        height: 495
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower End
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1438
+        width: 600
+        height: 554
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower Pole
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 999
+        width: 224
+        height: 394
+      alignment: 9
+      pivot: {x: .139676228, y: .0515348949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower Flag
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1283
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower Mask
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 511
+        width: 428
+        height: 416
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

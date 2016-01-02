@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 0d75793cd8237174d817555f6bd074d8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pilars and platforms_0
+    21300002: T
+    21300004: Pilars and platforms_1
+    21300006: Pilars and platforms_2
+    21300008: Pilars and platforms_3
+    21300010: Pilars and platforms_4
+    21300012: Pilars and platforms_5
+    21300014: Elevator White Flower
+    21300016: Elevator Purple Flower
+    21300018: Elevator Yellow Flower
+    21300020: Elevator Red Flower
+    21300022: Elevator Stone
+    21300024: Elevator Brown 02
+    21300026: Elevator Something
+    21300028: Elevator Stone 02
+    21300030: Elevator Gray
+    21300032: Elevator Brown01
+    21300034: Elevator Earth
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pilars and platforms_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1641
+        width: 681
+        height: 407
+      alignment: 9
+      pivot: {x: .442486107, y: .0140215904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: T
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1588
+        width: 924
+        height: 460
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pilars and platforms_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1239
+        width: 738
+        height: 388
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pilars and platforms_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1034
+        width: 379
+        height: 496
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pilars and platforms_3
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1034
+        width: 381
+        height: 499
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pilars and platforms_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 801
+        width: 557
+        height: 423
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pilars and platforms_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 298
+        width: 659
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elevator White Flower
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 51
+        width: 402
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elevator Purple Flower
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 8
+        width: 393
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elevator Yellow Flower
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 5
+        width: 393
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elevator Red Flower
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 302
+        width: 393
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elevator Stone
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 620
+        width: 381
+        height: 313
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elevator Brown 02
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 656
+        width: 363
+        height: 271
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elevator Something
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 345
+        width: 344
+        height: 254
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elevator Stone 02
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 380
+        width: 376
+        height: 430
+      alignment: 9
+      pivot: {x: .459162295, y: .471764714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elevator Gray
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 832
+        width: 356
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elevator Brown01
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1110
+        width: 342
+        height: 277
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elevator Earth
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1425
+        width: 396
+        height: 603
+      alignment: 9
+      pivot: {x: .543011308, y: .428928763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

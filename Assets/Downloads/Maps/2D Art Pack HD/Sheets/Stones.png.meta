@@ -1,0 +1,762 @@
+fileFormatVersion: 2
+guid: d37ce265cbeecdf429174be903baeb75
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stones_0
+    21300002: Stones_1
+    21300004: Stones_2
+    21300006: Stones_3
+    21300008: Stones_4
+    21300010: Big Arrow Stone
+    21300012: Big Stone 01
+    21300014: Stones_7
+    21300016: Stones_8
+    21300018: Stones_9
+    21300020: Stones_10
+    21300022: Stones_11
+    21300024: Stones_12
+    21300026: Stones_13
+    21300028: Stones_14
+    21300030: Stones_15
+    21300032: Stones_16
+    21300034: Head
+    21300036: Head01
+    21300038: Head02
+    21300040: Head03
+    21300042: Head04
+    21300044: Head05
+    21300046: Head06
+    21300048: Head07
+    21300050: Head08
+    21300052: Head09
+    21300054: Head10
+    21300056: Head11
+    21300058: Big Stone 02
+    21300060: Arrow Right
+    21300062: Arrow left
+    21300064: Arrow up
+    21300066: Arrow Down
+    21300068: Signs
+    21300070: Signs02
+    21300072: Signs03
+    21300074: Signs04
+    21300076: Signs05
+    21300078: Signs16
+    21300080: Signs06
+    21300082: Signs22
+    21300084: Signs21
+    21300086: Signs31
+    21300088: Signs30
+    21300090: Signs29
+    21300092: Signs28
+    21300094: Signs20
+    21300096: Signs19
+    21300098: Signs12
+    21300100: Signs13
+    21300102: Signs14
+    21300104: Signs15
+    21300106: Signs11
+    21300108: Signs10
+    21300110: Signs18
+    21300112: Signs25
+    21300114: Signs26
+    21300116: Signs27
+    21300118: Signs24
+    21300120: Signs09
+    21300122: Signs08
+    21300124: Signs07
+    21300126: Signs17
+    21300128: Signs23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Stones_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1889
+        width: 194
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stones_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1893
+        width: 187
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stones_2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1891
+        width: 198
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stones_3
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1896
+        width: 183
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stones_4
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1897
+        width: 184
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Arrow Stone
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1748
+        width: 665
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Stone 01
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1410
+        width: 569
+        height: 322
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stones_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1660
+        width: 183
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stones_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1663
+        width: 187
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stones_9
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1665
+        width: 193
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stones_10
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1663
+        width: 181
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stones_11
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1670
+        width: 182
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stones_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1414
+        width: 186
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stones_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1415
+        width: 196
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stones_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1417
+        width: 183
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stones_15
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1419
+        width: 185
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stones_16
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1418
+        width: 190
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 910
+        width: 243
+        height: 444
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head01
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 905
+        width: 226
+        height: 454
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head02
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 906
+        width: 192
+        height: 453
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head03
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 928
+        width: 209
+        height: 413
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head04
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 950
+        width: 190
+        height: 392
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head05
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 975
+        width: 194
+        height: 379
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head06
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 977
+        width: 170
+        height: 371
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head07
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 975
+        width: 166
+        height: 341
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head08
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 552
+        width: 174
+        height: 370
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head09
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 572
+        width: 167
+        height: 337
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head10
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 547
+        width: 194
+        height: 370
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head11
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 541
+        width: 192
+        height: 362
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Stone 02
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 599
+        width: 482
+        height: 267
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow Right
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 767
+        width: 111
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow left
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 709
+        width: 115
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow up
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 604
+        width: 128
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow Down
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 587
+        width: 116
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 487
+        width: 120
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs02
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 473
+        width: 132
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs03
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 480
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs04
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 488
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs05
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 464
+        width: 101
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs16
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 350
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs06
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 375
+        width: 107
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs22
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 233
+        width: 43
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs21
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 215
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs31
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 91
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs30
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 40
+        width: 96
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs29
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 68
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs28
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 66
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs20
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 172
+        width: 207
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs19
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 255
+        width: 229
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs12
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 363
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs13
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 370
+        width: 12
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs14
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 358
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs15
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 357
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 325
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 330
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs18
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 221
+        width: 118
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs25
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 63
+        width: 57
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs26
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 61
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs27
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 45
+        width: 39
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 23
+        width: 101
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs09
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 222
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs08
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 354
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs07
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 352
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 192
+        width: 95
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Signs23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 54
+        width: 152
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

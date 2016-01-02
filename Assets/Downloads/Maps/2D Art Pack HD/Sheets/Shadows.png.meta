@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: bcded98179a8c7244adb008f51787743
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shadows_0
+    21300002: Shadows_1
+    21300004: Shadows_2
+    21300006: Shadows_3
+    21300008: Shadows_4
+    21300010: Shadows_5
+    21300012: Shadows_6
+    21300014: Shadows_7
+    21300016: Shadows_8
+    21300018: Shadows_9
+    21300020: Shadows_10
+    21300022: Shadows_11
+    21300024: Shadows_12
+    21300026: Shadows_13
+    21300028: Shadows_14
+    21300030: Shadows_15
+    21300032: Shadows_16
+    21300034: Shadows_17
+    21300036: Shadows_18
+    21300038: Shadows_19
+    21300040: Shadows_20
+    21300042: Shadows_21
+    21300044: Shadows_22
+    21300046: Grass 01
+    21300048: Grass 02
+    21300050: Grass 03
+    21300052: Grass 04
+    21300054: Grass 05
+    21300056: Grass 06
+    21300058: Tree 01
+    21300060: Tree 02
+    21300062: Tree 03
+    21300064: Tree 04
+    21300066: Tree 05
+    21300068: Tree 06
+    21300070: Tree 07
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Shadows_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 546
+        width: 531
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_1
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 589
+        width: 436
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_2
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 565
+        width: 351
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_3
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 939
+        width: 149
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_4
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 806
+        width: 401
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_5
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 549
+        width: 426
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_6
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 456
+        width: 199
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_7
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 182
+        width: 284
+        height: 224
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_8
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 38
+        width: 200
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_9
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 24
+        width: 504
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_10
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 251
+        width: 385
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_11
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 412
+        width: 197
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_12
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 443
+        width: 121
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_13
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 408
+        width: 173
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_14
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 207
+        width: 228
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_15
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 71
+        width: 228
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_16
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 74
+        width: 186
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_17
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 384
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_18
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 266
+        width: 591
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 371
+        width: 302
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 315
+        width: 297
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 41
+        width: 197
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadows_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 21
+        width: 324
+        height: 208
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass 01
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 784
+        width: 613
+        height: 331
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass 02
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1125
+        width: 286
+        height: 307
+      alignment: 9
+      pivot: {x: .472813845, y: .153870627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass 03
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1123
+        width: 574
+        height: 314
+      alignment: 9
+      pivot: {x: .50903064, y: .136824876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass 04
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1133
+        width: 347
+        height: 300
+      alignment: 9
+      pivot: {x: .468098491, y: .0142838545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass 05
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1075
+        width: 493
+        height: 358
+      alignment: 9
+      pivot: {x: .505256951, y: .130784363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass 06
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 762
+        width: 352
+        height: 310
+      alignment: 9
+      pivot: {x: .463185221, y: .132138953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree 01
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1545
+        width: 260
+        height: 480
+      alignment: 9
+      pivot: {x: .440190256, y: .084240213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree 02
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1531
+        width: 220
+        height: 509
+      alignment: 9
+      pivot: {x: .393973619, y: .0621014126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree 03
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1542
+        width: 97
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree 04
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1547
+        width: 181
+        height: 453
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree 05
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1523
+        width: 235
+        height: 489
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree 06
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1490
+        width: 272
+        height: 558
+      alignment: 9
+      pivot: {x: .268850446, y: .0270418562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree 07
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1469
+        width: 239
+        height: 574
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

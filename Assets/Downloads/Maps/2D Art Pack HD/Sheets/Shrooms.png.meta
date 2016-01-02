@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: a221dab63e056364099318dc34b3de39
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shroom Long 04
+    21300002: Shroom Long 03
+    21300004: Shroom Long 02
+    21300006: Shroom Long 01
+    21300008: Shroom Double 01
+    21300010: Shroom Brown 01
+    21300012: Shroom Brown 02
+    21300014: Shroom Brown 03
+    21300016: Shroom Brown 04
+    21300018: Shroom Crazy 01
+    21300020: Shroom Crazy02
+    21300022: Shroom Double 02
+    21300024: Shroom Double 03
+    21300026: Shroom Normal 01
+    21300028: Shroom normal 02
+    21300030: Shroom Red small 01
+    21300032: Shroom Red Small triple
+    21300034: Shroom Red Small 4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Shroom Long 04
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1091
+        width: 293
+        height: 496
+      alignment: 9
+      pivot: {x: .12202657, y: .0593968071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Long 03
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1090
+        width: 248
+        height: 487
+      alignment: 9
+      pivot: {x: .660761178, y: .0664145201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Long 02
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1095
+        width: 240
+        height: 485
+      alignment: 9
+      pivot: {x: .475390106, y: .049403742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Long 01
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1123
+        width: 264
+        height: 474
+      alignment: 9
+      pivot: {x: .365762413, y: .0389466099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Double 01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 374
+        height: 600
+      alignment: 9
+      pivot: {x: .483218104, y: .107722983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Brown 01
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1642
+        width: 439
+        height: 391
+      alignment: 9
+      pivot: {x: .459636927, y: .061924614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Brown 02
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1602
+        width: 373
+        height: 431
+      alignment: 9
+      pivot: {x: .503958941, y: .0546169765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Brown 03
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1610
+        width: 404
+        height: 423
+      alignment: 9
+      pivot: {x: .496345133, y: .0985557586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Brown 04
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1585
+        width: 463
+        height: 448
+      alignment: 9
+      pivot: {x: .535081625, y: .0517414622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Crazy 01
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1165
+        width: 501
+        height: 351
+      alignment: 9
+      pivot: {x: .491158009, y: .0582769252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Crazy02
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1185
+        width: 317
+        height: 349
+      alignment: 9
+      pivot: {x: .495341867, y: .0684387758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Double 02
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 598
+        width: 395
+        height: 537
+      alignment: 9
+      pivot: {x: .534427702, y: .0402737707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Double 03
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 541
+        width: 302
+        height: 533
+      alignment: 9
+      pivot: {x: .503464043, y: .0466367006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Normal 01
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 587
+        width: 348
+        height: 487
+      alignment: 9
+      pivot: {x: .406815439, y: .0381818153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom normal 02
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 596
+        width: 299
+        height: 458
+      alignment: 9
+      pivot: {x: .104662023, y: .0386319235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Red small 01
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 108
+        width: 160
+        height: 191
+      alignment: 9
+      pivot: {x: .513076007, y: .0837617218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Red Small triple
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 95
+        width: 523
+        height: 326
+      alignment: 9
+      pivot: {x: .487999052, y: .0603931397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shroom Red Small 4
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 95
+        width: 705
+        height: 326
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

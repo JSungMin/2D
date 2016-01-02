@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 75fee26d55476c44d9c24dd627d381cf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Land Longest whole
+    21300002: Land Mid Cut 01
+    21300004: Land Long Cut
+    21300006: Trap Spikes
+    21300008: Trap Spike
+    21300010: Acid Pool Red 01
+    21300012: Acid Bubble Red
+    21300014: Acid Bubble Splash
+    21300016: Cliff Med R
+    21300018: Cliff Med L
+    21300020: Tile Land
+    21300022: Tile R Top
+    21300024: Tile L Top
+    21300026: Tile R Top Cut
+    21300028: Tile L Top Cut
+    21300030: Tile L Bot
+    21300032: Tile L Bot Cut
+    21300034: Tile R Bot
+    21300036: Tile R Bot Cut
+    21300038: Root Green Solo Long
+    21300040: Vein Flowa
+    21300042: Trap Brown Spike
+    21300044: Cliff Small L
+    21300046: Cliff Small R
+    21300048: Land U Shape
+    21300050: Land U Shape Cut
+    21300052: Acid Green Bubble Splash
+    21300054: Acid Green Bubble
+    21300056: Acid Green Pool
+    21300058: Lands And Traps_0
+    21300060: Land Long
+    21300062: Land Short 01
+    21300064: Land Short 02
+    21300066: Land Short 03
+    21300068: End L
+    21300070: End R1
+    21300072: End R
+    21300074: Land Short 06
+    21300076: Land mediumt 0
+    21300078: Land Short 04
+    21300080: Land Curved Long Cut
+    21300082: Land Curved Long Cut 02
+    21300084: Land Curved Long Cut 04
+    21300086: Land Hill
+    21300088: Land Hill 01
+    21300090: Trap Blade
+    21300092: Trap Root
+    21300094: Acid Pool Red02
+    21300096: Sign Skull
+    21300098: Rope 01
+    21300100: Rope 02
+    21300102: Spider Fat
+    21300104: Web Thread
+    21300106: Spider Slim
+    21300108: Web 01
+    21300110: Web 02
+    21300112: Root 01
+    21300114: Root 02
+    21300116: Root 03
+    21300118: Root 04
+    21300120: Root 05
+    21300122: Root 06
+    21300124: Root 07
+    21300126: Root 08
+    21300128: Root 09
+    21300130: Root 010
+    21300132: Root Green 01
+    21300134: Root Green 02
+    21300136: Root Green 03
+    21300138: Root Green 04
+    21300140: Root Green 05
+    21300142: Root Green 06
+    21300144: Root Green 07
+    21300146: Cliff Cut R
+    21300148: Cliff Cut L
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Land Longest whole
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1944
+        width: 1007
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land Mid Cut 01
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1944
+        width: 306
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land Long Cut
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1944
+        width: 538
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trap Spikes
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1835
+        width: 314
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trap Spike
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1842
+        width: 38
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Acid Pool Red 01
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1750
+        width: 364
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Acid Bubble Red
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1670
+        width: 81
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Acid Bubble Splash
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1667
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cliff Med R
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1673
+        width: 182
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cliff Med L
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1675
+        width: 183
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tile Land
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1831
+        width: 443
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tile R Top
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1780
+        width: 280
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tile L Top
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1697
+        width: 271
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tile R Top Cut
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1780
+        width: 139
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tile L Top Cut
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1697
+        width: 184
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tile L Bot
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1495
+        width: 382
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tile L Bot Cut
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1495
+        width: 181
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tile R Bot
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1426
+        width: 411
+        height: 212
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tile R Bot Cut
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1429
+        width: 294
+        height: 209
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root Green Solo Long
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1458
+        width: 70
+        height: 339
+      alignment: 9
+      pivot: {x: .620544434, y: .933106542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vein Flowa
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1323
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trap Brown Spike
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1456
+        width: 296
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cliff Small L
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1503
+        width: 211
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cliff Small R
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1501
+        width: 211
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land U Shape
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1084
+        width: 701
+        height: 354
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land U Shape Cut
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1084
+        width: 545
+        height: 354
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Acid Green Bubble Splash
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1188
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Acid Green Bubble
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1177
+        width: 81
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Acid Green Pool
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1080
+        width: 373
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lands And Traps_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1273
+        width: 412
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land Long
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1273
+        width: 398
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land Short 01
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1172
+        width: 212
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land Short 02
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1169
+        width: 146
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land Short 03
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1157
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: End L
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1161
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: End R1
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1164
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: End R
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1055
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land Short 06
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1060
+        width: 174
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land mediumt 0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1061
+        width: 289
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land Short 04
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1068
+        width: 100
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land Curved Long Cut
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 720
+        width: 807
+        height: 311
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land Curved Long Cut 02
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 243
+        width: 790
+        height: 341
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land Curved Long Cut 04
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 55
+        width: 608
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land Hill
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 36
+        width: 826
+        height: 347
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land Hill 01
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 36
+        width: 675
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trap Blade
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 12
+        width: 375
+        height: 161
+      alignment: 9
+      pivot: {x: .50297755, y: .88837266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trap Root
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 193
+        width: 168
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Acid Pool Red02
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 424
+        width: 373
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign Skull
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 510
+        width: 178
+        height: 225
+      alignment: 9
+      pivot: {x: .495076716, y: .0565946661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rope 01
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 561
+        width: 14
+        height: 460
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rope 02
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 559
+        width: 75
+        height: 463
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spider Fat
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 918
+        width: 105
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Web Thread
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 737
+        width: 4
+        height: 315
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spider Slim
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 784
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Web 01
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 834
+        width: 110
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Web 02
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 845
+        width: 107
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root 01
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 867
+        width: 139
+        height: 201
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root 02
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 872
+        width: 94
+        height: 185
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root 03
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 842
+        width: 114
+        height: 211
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root 04
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 815
+        width: 89
+        height: 251
+      alignment: 9
+      pivot: {x: .5, y: .905723274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root 05
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 671
+        width: 56
+        height: 141
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root 06
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 620
+        width: 44
+        height: 194
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root 07
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 621
+        width: 87
+        height: 190
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root 08
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 606
+        width: 74
+        height: 185
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root 09
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 601
+        width: 90
+        height: 211
+      alignment: 9
+      pivot: {x: .482984751, y: .917317927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root 010
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 583
+        width: 59
+        height: 227
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root Green 01
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 428
+        width: 117
+        height: 169
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root Green 02
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 408
+        width: 83
+        height: 169
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root Green 03
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 440
+        width: 98
+        height: 153
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root Green 04
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 421
+        width: 78
+        height: 152
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root Green 05
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 388
+        width: 135
+        height: 188
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root Green 06
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 447
+        width: 31
+        height: 143
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Root Green 07
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 434
+        width: 53
+        height: 142
+      alignment: 9
+      pivot: {x: .45666042, y: .872059584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cliff Cut R
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1501
+        width: 84
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cliff Cut L
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1503
+        width: 84
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

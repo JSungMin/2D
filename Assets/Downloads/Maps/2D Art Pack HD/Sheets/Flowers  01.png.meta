@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: 33d956ad45d135f49b2e0c383b036b7a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: White 01
+    21300002: White 02
+    21300004: White 03
+    21300006: White 06
+    21300008: White 05
+    21300010: White 04
+    21300012: Red 01
+    21300014: Red 02
+    21300016: Orange 01
+    21300018: Orange 02
+    21300020: Flowers  01_2
+    21300022: Orange 03
+    21300024: Yellow 01
+    21300026: Yellow 02
+    21300028: Yellow 03
+    21300030: Yellow 04
+    21300032: Yellow 05
+    21300034: Orange 04
+    21300036: Orange 05
+    21300038: Orange 06
+    21300040: Red 03
+    21300042: Red 04
+    21300044: Red 05
+    21300046: Flowers  01_15
+    21300048: White Flower
+    21300050: GreenPart 01
+    21300052: GreenPart 02
+    21300054: GreenPart 06
+    21300056: GreenPart 05
+    21300058: GreenPart 04
+    21300060: GreenPart 03
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: White 01
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1850
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White 02
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1880
+        width: 164
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White 03
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1909
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White 06
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1745
+        width: 143
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White 05
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1704
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White 04
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1697
+        width: 144
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red 01
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1703
+        width: 306
+        height: 335
+      alignment: 9
+      pivot: {x: .535220265, y: .0382444449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red 02
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1726
+        width: 277
+        height: 301
+      alignment: 9
+      pivot: {x: .4702501, y: .0523734353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orange 01
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1763
+        width: 226
+        height: 256
+      alignment: 9
+      pivot: {x: .0770258307, y: .0412888527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orange 02
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1680
+        width: 290
+        height: 358
+      alignment: 9
+      pivot: {x: .475846082, y: .0304180123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flowers  01_2
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1817
+        width: 205
+        height: 190
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orange 03
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1272
+        width: 379
+        height: 358
+      alignment: 9
+      pivot: {x: .370627582, y: .0327199586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Yellow 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1326
+        width: 329
+        height: 304
+      alignment: 9
+      pivot: {x: .446147323, y: .0242618769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Yellow 02
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1341
+        width: 304
+        height: 304
+      alignment: 9
+      pivot: {x: .490512252, y: .0283279419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Yellow 03
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1335
+        width: 272
+        height: 307
+      alignment: 9
+      pivot: {x: .53635633, y: .0329371169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Yellow 04
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1318
+        width: 304
+        height: 307
+      alignment: 9
+      pivot: {x: .49593392, y: .0235424731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Yellow 05
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1328
+        width: 226
+        height: 305
+      alignment: 9
+      pivot: {x: .450774342, y: .0298744068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orange 04
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 887
+        width: 354
+        height: 334
+      alignment: 9
+      pivot: {x: .63746655, y: .023616951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orange 05
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 918
+        width: 239
+        height: 331
+      alignment: 9
+      pivot: {x: .612100899, y: .00938798115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orange 06
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 922
+        width: 244
+        height: 335
+      alignment: 9
+      pivot: {x: .381233096, y: .0185104143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red 03
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 946
+        width: 326
+        height: 317
+      alignment: 9
+      pivot: {x: .441297293, y: .0135931261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red 04
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 926
+        width: 243
+        height: 331
+      alignment: 9
+      pivot: {x: .54950279, y: .0110398028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red 05
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 954
+        width: 325
+        height: 324
+      alignment: 9
+      pivot: {x: .542060196, y: .0173516925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flowers  01_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 472
+        width: 388
+        height: 353
+      alignment: 9
+      pivot: {x: .601621032, y: .452839017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White Flower
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 483
+        width: 284
+        height: 355
+      alignment: 9
+      pivot: {x: .354995072, y: .0137710785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenPart 01
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 541
+        width: 531
+        height: 289
+      alignment: 9
+      pivot: {x: .567653835, y: .030066045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenPart 02
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 567
+        width: 478
+        height: 264
+      alignment: 9
+      pivot: {x: .44867453, y: .0253920127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenPart 06
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 85
+        width: 316
+        height: 264
+      alignment: 9
+      pivot: {x: .151769713, y: .0230604801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenPart 05
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 70
+        width: 306
+        height: 294
+      alignment: 9
+      pivot: {x: .36514622, y: .0213428158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenPart 04
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 70
+        width: 479
+        height: 264
+      alignment: 9
+      pivot: {x: .566268384, y: .0270686001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenPart 03
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 48
+        width: 403
+        height: 286
+      alignment: 9
+      pivot: {x: .757300794, y: .0634480491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
